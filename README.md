@@ -2,8 +2,4 @@
 
 This template is created base on [this](https://docs.unity3d.com/Manual/cus-layout.html).
 
-## Usage
-
-```sh
-$ npx degit thammin/unity-custom-package-template my-plugin
-```
+Original project [here](https://github.com/thammin/unity-custom-package-template)
